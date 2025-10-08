@@ -62,8 +62,8 @@ Get-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion"
 
 ![Схема компонентов](Просмотр содержимого реестра.jpg)
 
-
-
+![Изображение] https://github.com/ValentiLo/OP01-OPERASION_SISTEMS/blob/main/prosmotr.jpg)
+![Изображение](https://github.com/ValentiLo/OP01-OPERASION_SISTEMS/blob/main/prosmotr.jpg)
 [here](#Просмотр содержимого реестра.jpg)
 # Создание параметра
 New-ItemProperty -Path "HKCU:\Software" -Name "TestValue" -Value "123" -PropertyType String
