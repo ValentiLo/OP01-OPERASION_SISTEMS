@@ -50,7 +50,7 @@
 ```powershell
 # Просмотр содержимого реестра
 Get-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion"
-![here](Просмотр содержимого реестра.jpg)
+[here](Просмотр содержимого реестра.jpg)
 # Создание параметра
 New-ItemProperty -Path "HKCU:\Software" -Name "TestValue" -Value "123" -PropertyType String
 
