@@ -56,7 +56,7 @@ Get-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion"
 
 ## Демонстрация работы
 
-![Главное окно приложения](images/screenshot1.png)
+![Главное окно приложения](prosmotr.jpg)
 
 ## Архитектура системы
 
